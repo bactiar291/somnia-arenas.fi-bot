@@ -1,0 +1,15 @@
+{
+  "name": "arenas.fi-bot",
+  "version": "1.0.0",
+  "description": "all fitur in arenas.fi somnia",
+  "main": "run.js",
+  "type": "module",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^17.2.1",
+    "ethers": "^6.15.0"
+  }
+}
