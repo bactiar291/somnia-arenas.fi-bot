@@ -1,4 +1,5 @@
 # somnia-arenas.fi-bot
+ready guys ?
 - auto mint faucet 
 - auto supply
 - auto borrow
