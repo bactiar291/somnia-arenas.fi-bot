@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "all fitur in arenas.fi somnia",
   "main": "run.js",
-  "type": "module",
   "scripts": {
     "start": "node run.js"
   },
